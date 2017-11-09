@@ -25,3 +25,6 @@
 - Author 
 	- [yueyueKrystal](https://github.com/yueyueKrystal)
 	
+- View
+	- ![view](https://raw.githubusercontent.com/BUPTRobocon/A_Base/master/view.jpg)
+	
