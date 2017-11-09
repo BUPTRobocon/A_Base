@@ -7,7 +7,7 @@
 
 - 通信接口：
 	- 网口(lan8720)
-	- RS232（4路、需插接TTL-RS232模块）
+	- RS232（4路、需插接[TTL-RS232模块](https://github.com/BUPTRobocon/RS232)）
 	- UART（2个 手柄、蓝牙）
 	- CAN
 
