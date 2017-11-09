@@ -21,6 +21,8 @@
 	- 提供Step_up_down模块接口（升降压模块，支持同时输出12-5、12-24V），用以给外设及全场定位模块供电
 	- 单片机电源与外设电源隔离
 	- 提供6路电源转接接口
+- Core:
+	- [F407Core](https://github.com/BUPTRobocon/stm32F407Core)
 
 - Author 
 	- [yueyueKrystal](https://github.com/yueyueKrystal)
